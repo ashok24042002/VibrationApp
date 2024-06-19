@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/about_us_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/about_us_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Our Vibration Monitor app is designed to provide users with an easy-to-use tool for monitoring and analyzing vibration levels in their environment. Our team of experts has incorporated the latest technology and industry standards to ensure that the app provides the most precise readings possible.\n\nWe are committed to continuously improving and updating the app to meet the evolving needs of our users. Thank you for choosing our Vibration Monitor app, and we hope that it helps you make informed decisions about the safety and comfort of your environment."
+        android:textColor="#444444"
+        android:layout_below="@id/about_us_title"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:lineSpacingExtra="8dp"/>
+
+    <TextView
+        android:id="@+id/about_us_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visit our website"
+        android:textSize="16sp"
+        android:textColor="#008080"
+        android:autoLink="web"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="32dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862573531760",
+    "firebase_url": "https://vibration-monitor-b3687-default-rtdb.firebaseio.com",
+    "project_id": "vibration-monitor-b3687",
+    "storage_bucket": "vibration-monitor-b3687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862573531760:android:b601db5d7737966deadab5",
+        "android_client_info": {
+          "package_name": "com.example.vibrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862573531760-32m3ltgt9hd6p6akcdrig3hnee86rsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnZO1DPoQyzgS_3140Ojrs2iFgMUBHzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862573531760-32m3ltgt9hd6p6akcdrig3hnee86rsq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

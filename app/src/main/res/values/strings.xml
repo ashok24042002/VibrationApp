@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VibrationApp</string>
+    <string name="menu_item1">Alerts</string>
+    <string name="menu_item2">Register</string>
+    <string name="menu_item3">Exit</string>
+
+    <string-array name="department_array">
+        <item>Home Appliance</item>
+        <item>Industrial Appliance</item>
+        <item>Cooking Appliance</item>
+        <item>Other</item>
+    </string-array>
+    <string name="channel_name">Notifications Channel</string>
+    <string name="channel_description">This channel is used to show app notifications.</string>
+
+</resources>
